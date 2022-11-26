@@ -47,7 +47,7 @@ September 25, 2022 | [Explainability of Graph Neural Networks](https://mp.weixin
 
 Li Sun(sunl8447@163.com)
 
-Zhou Min (zhoumin1900@163.com)
+ZHOU Min (zhoum1900@163.com)
 
 Menglin Yang (mlyang@cse.cuhk.edu.hk)
 
